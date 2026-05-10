@@ -92,15 +92,16 @@ const generatedBibEntries = {
     "keywords": "explainable AI, interpretability, trust, machine learning",
     "type": "inproceedings"
   },
-  @misc{weidinger2021ethicalsocialrisksharm,
-      title={Ethical and social risks of harm from Language Models}, 
-      author={Laura Weidinger and John Mellor and Maribeth Rauh and Conor Griffin and Jonathan Uesato and Po-Sen Huang and Myra Cheng and Mia Glaese and Borja Balle and Atoosa Kasirzadeh and Zac Kenton and Sasha Brown and Will Hawkins and Tom Stepleton and Courtney Biles and Abeba Birhane and Julia Haas and Laura Rimell and Lisa Anne Hendricks and William Isaac and Sean Legassick and Geoffrey Irving and Iason Gabriel},
-      year={2021},
-      eprint={2112.04359},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2112.04359}, 
-}
+  "weidinger2021ethical": {
+  "title": "Ethical and Social Risks of Harm from Language Models",
+  "author": "Weidinger, Laura and Mellor, John and Rauh, Maribeth and Griffin, Conor and Uesato, Jonathan and Huang, Po-Sen and Cheng, Myra and Glaese, Mia and Balle, Borja and Kasirzadeh, Atoosa and Kenton, Zac and Brown, Sasha and Hawkins, Will and Stepleton, Tom and Biles, Courtney and Birhane, Abeba and Haas, Julia and Rimell, Laura and Hendricks, Lisa Anne and Isaac, William and Legassick, Sean and Irving, Geoffrey and Gabriel, Iason",
+  "journal": "arXiv preprint arXiv:2112.04359",
+  "year": "2021",
+  "doi": "10.48550/arXiv.2112.04359",
+  "url": "https://arxiv.org/abs/2112.04359",
+  "keywords": "LLMs, AI ethics, harmful outputs, trustworthiness",
+  "type": "article"
+},
   "wilson2025onesize": {
     "title": "One Size Does Not Fit All: Exploring the Cybersecurity Perspectives and Engagement Preferences of UK-Based Small Businesses",
     "author": "Wilson, Martin and McDonald, Sharon",
