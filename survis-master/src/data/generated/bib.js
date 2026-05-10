@@ -92,18 +92,15 @@ const generatedBibEntries = {
     "keywords": "explainable AI, interpretability, trust, machine learning",
     "type": "inproceedings"
   },
-  "weidinger2022ethical": {
-    "title": "Ethical and Social Risks of Harm from Language Models",
-    "author": "Weidinger, Laura and Mellor, John and Rauh, Maribeth and Griffin, Conor and Uesato, Jonathan and Huang, Po-Sen and Cheng, Myra and Glaese, Mia and Balle, Borja and Kasirzadeh, Atoosa and others",
-    "booktitle": "Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency",
-    "pages": "214--229",
-    "year": "2022",
-    "publisher": "Association for Computing Machinery",
-    "doi": "10.1145/3531146.3533088",
-    "url": "https://doi.org/10.1145/3531146.3533088",
-    "keywords": "LLMs, AI ethics, misinformation, AI risks",
-    "type": "inproceedings"
-  },
+  @misc{weidinger2021ethicalsocialrisksharm,
+      title={Ethical and social risks of harm from Language Models}, 
+      author={Laura Weidinger and John Mellor and Maribeth Rauh and Conor Griffin and Jonathan Uesato and Po-Sen Huang and Myra Cheng and Mia Glaese and Borja Balle and Atoosa Kasirzadeh and Zac Kenton and Sasha Brown and Will Hawkins and Tom Stepleton and Courtney Biles and Abeba Birhane and Julia Haas and Laura Rimell and Lisa Anne Hendricks and William Isaac and Sean Legassick and Geoffrey Irving and Iason Gabriel},
+      year={2021},
+      eprint={2112.04359},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2112.04359}, 
+}
   "wilson2025onesize": {
     "title": "One Size Does Not Fit All: Exploring the Cybersecurity Perspectives and Engagement Preferences of UK-Based Small Businesses",
     "author": "Wilson, Martin and McDonald, Sharon",
